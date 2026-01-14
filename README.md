@@ -1,12 +1,5 @@
-## Bem-vindo(a) ao perfil do MATHEUS TOBIA 🌐
+## Bem-vindo(a) ao perfil de MATHEUS TOBIA 🌐
 
- <div>
-   <a href="https://github.com/mthctdev">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mthctdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mthctdev&layout=compact&langs_count=6&theme=tokyonight"/>
-    
-</div>
-    
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -15,10 +8,6 @@
 
   <img align="center" alt="py" height="30" width="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
   
-          
-          
-          
- 
 <br>
  
 ### Para contato me segue nas redes abaixo!
