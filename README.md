@@ -23,34 +23,15 @@
 </div>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
+
+<br>
   
   <!-- Card de Estatísticas Gerais -->
   <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=mthctdev&show_icons=true&theme=tokyonight" 
     alt="Estatísticas Gerais" 
     height="170px" 
-    style="object-fit: contain; max-width: 100%;" />
-
-  <!-- Gráfico de Linguagens -->
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mthctdev&layout=compact&theme=tokyonight&hide=html,css,javascript" 
-    alt="Linguagens Mais Usadas" 
-    height="170px" 
-    style="object-fit: contain; max-width: 100%;" />
-
-    <table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <!-- Card de resumo geral -->
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mthctdev&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas Gerais" style="max-width: 100%;" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <!-- Gráfico de Linguagens -->
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mthctdev&layout=compact&theme=tokyonight&hide=html,css" alt="Linguagens Mais Usadas" style="max-width: 100%;" />
-    </td>
-  </tr>
-</table>
-    
+    style="object-fit: contain; max-width: 100%;" /> 
 
 <br>
 
