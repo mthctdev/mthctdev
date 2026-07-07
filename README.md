@@ -14,11 +14,13 @@
 
 <br>
 
-<!-- Gráfico das linguagens mais usadas -->
-![As Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mthctdev&layout=compact&theme=vision-friendly-dark&hide=html,css)
-
-<!-- Opcional: Card de resumo com total de commits, estrelas e PRs -->
-![Estatísticas Gerais](https://github-readme-stats.vercel.app/api?username=mthctdev&show_icons=true&theme=vision-friendly-dark&include_all_commits=true)
+<div style="display: inline-block;">
+  <!-- Gráfico das linguagens mais usadas -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mthctdev&layout=compact&theme=vision-friendly-dark&hide=html,css" alt="As Linguagens Mais Usadas" height="165" />
+  
+  <!-- Card de resumo com total de commits, estrelas e PRs -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mthctdev&show_icons=true&theme=vision-friendly-dark&include_all_commits=true" alt="Estatísticas Gerais" height="165" />
+</div>
  
 ### Para contato me segue nas redes abaixo!
 
