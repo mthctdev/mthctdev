@@ -13,6 +13,8 @@
 
 
 <br>
+
+![Gráfico de Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=mthctdev&layout=compact&theme=vision-friendly-dark)
  
 ### Para contato me segue nas redes abaixo!
 
