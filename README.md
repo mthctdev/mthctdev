@@ -18,7 +18,7 @@
  
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mthctdev&show_icons=true&theme=tokyonight" alt="Estatísticas Gerais" height="160" />
 
-<br>
+<br><br>
 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mthctdev&layout=compact&theme=tokyonight&hide=html,css" alt="Linguagens Mais Usadas" height="160" />
 </div>
