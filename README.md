@@ -20,12 +20,9 @@
 
 <br>
   
-  <!-- Card de Estatísticas Gerais -->
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=mthctdev&show_icons=true&theme=tokyonight" 
-    alt="Estatísticas Gerais" 
-    height="170px" 
-    style="object-fit: contain; max-width: 100%;" /> 
+    <!-- Gráfico de Linguagens pelo seoul-api -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mthctdev&layout=compact&theme=tokyonight&hide=html,css" alt="Linguagens Mais Usadas" height="160" />
+</div>
 
 <br>
 
