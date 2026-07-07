@@ -21,6 +21,14 @@
   <!-- Gráfico de Linguagens pelo seoul-api -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mthctdev&layout=compact&theme=tokyonight&hide=html,css" alt="Linguagens Mais Usadas" height="160" />
 </div>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring&logoColor=6DB33F)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
 ### Para contato me segue nas redes abaixo!
 
 <div>
