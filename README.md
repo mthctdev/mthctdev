@@ -15,11 +15,12 @@
 <br>
 
 <div style="display: inline-block;">
-  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=mthctdev&layout=compact&theme=vision-friendly-dark&hide=html,css" alt="Linguagens Mais Usadas" height="165" />
+  <!-- Estatísticas Gerais pelo seoul-api -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mthctdev&show_icons=true&theme=tokyonight" alt="Estatísticas Gerais" height="160" />
 
-  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=mthctdev&show_icons=true&theme=vision-friendly-dark&include_all_commits=true" alt="Estatísticas Gerais" height="165" />
+  <!-- Gráfico de Linguagens pelo seoul-api -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mthctdev&layout=compact&theme=tokyonight&hide=html,css" alt="Linguagens Mais Usadas" height="160" />
 </div>
- 
 ### Para contato me segue nas redes abaixo!
 
 <div>
